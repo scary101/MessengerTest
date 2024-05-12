@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\podcluchenie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C87C41D-3BC3-497F-AC21-C07C3E3B8022}|podcluchenie\\podcluchenie.csproj|c:\\users\\user\\source\\repos\\podcluchenie\\podcluchenie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C87C41D-3BC3-497F-AC21-C07C3E3B8022}|podcluchenie\\podcluchenie.csproj|solutionrelative:podcluchenie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C87C41D-3BC3-497F-AC21-C07C3E3B8022}|podcluchenie\\podcluchenie.csproj|c:\\users\\user\\source\\repos\\podcluchenie\\podcluchenie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C87C41D-3BC3-497F-AC21-C07C3E3B8022}|podcluchenie\\podcluchenie.csproj|solutionrelative:podcluchenie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C87C41D-3BC3-497F-AC21-C07C3E3B8022}|podcluchenie\\podcluchenie.csproj|c:\\users\\user\\source\\repos\\podcluchenie\\podcluchenie\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C87C41D-3BC3-497F-AC21-C07C3E3B8022}|podcluchenie\\podcluchenie.csproj|solutionrelative:podcluchenie\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C87C41D-3BC3-497F-AC21-C07C3E3B8022}|podcluchenie\\podcluchenie.csproj|c:\\users\\user\\source\\repos\\podcluchenie\\podcluchenie\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C87C41D-3BC3-497F-AC21-C07C3E3B8022}|podcluchenie\\podcluchenie.csproj|solutionrelative:podcluchenie\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\podcluchenie\\podcluchenie\\Chat.cs",
+              "RelativeDocumentMoniker": "podcluchenie\\Chat.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\podcluchenie\\podcluchenie\\Chat.cs",
+              "RelativeToolTip": "podcluchenie\\Chat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:55:21.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\podcluchenie\\podcluchenie\\User.cs",
+              "RelativeDocumentMoniker": "podcluchenie\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\podcluchenie\\podcluchenie\\User.cs",
+              "RelativeToolTip": "podcluchenie\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:35:03.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\podcluchenie\\podcluchenie\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "podcluchenie\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\podcluchenie\\podcluchenie\\MainWindow.xaml",
+              "RelativeToolTip": "podcluchenie\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T07:38:22.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\podcluchenie\\podcluchenie\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "podcluchenie\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\podcluchenie\\podcluchenie\\MainWindow.xaml.cs",
+              "RelativeToolTip": "podcluchenie\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:38:18.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

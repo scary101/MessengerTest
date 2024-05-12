@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "90y+UV2wbQd0ZHHSdZmmSxGCBJ8FELNAgzJAJhEnnXa+CAMl7SD7qPP0Ai9A5IIfjePA3g2OtFItAiLhgr268g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\podcluchenie\\podcluchenie\\podcluchenie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
