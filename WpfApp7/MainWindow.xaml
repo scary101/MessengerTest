@@ -1,0 +1,47 @@
+﻿<Window x:Class="WpfApp7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="113*"/>
+            <ColumnDefinition Width="47*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="192*"/>
+            <RowDefinition Height="25*"/>
+        </Grid.RowDefinitions>
+        <ListBox ItemsSource="{Binding Messages}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold" Text="{Binding UserName}" />
+                        <TextBlock FontSize="10" Text="{Binding Time}" />
+                        <TextBlock Text="{Binding Text}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+        <TextBox Text="{Binding Servermes}" TextWrapping="Wrap" Margin="5,5,5,5" Grid.Row="1"/>
+
+        <Button Content="Отправить" Command="{Binding Send}" HorizontalAlignment="Left" Margin="15,5,0,0" Grid.Row="1" VerticalAlignment="Top" Height="35" Width="210" Grid.Column="1"/>
+        <ListBox Grid.Column="1" ItemsSource="{Binding users}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Text="{Binding username}"/>
+                        <TextBlock Text="{Binding IpAdd}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+    </Grid>
+</Window>
